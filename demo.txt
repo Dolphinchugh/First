@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<iostream.h>
+void main()
+{
+     int a, b;
+     a= 10;
+     b= 3;
+     int add = a+b;
+     cout<< add<< endl;
+     return 0;
+}
